@@ -2,6 +2,7 @@ package actionItems;
 
 public class AddingNumbers {
 
+	// This is how you can add numbers
 	public static void main(String[] args) {
 		
 		int sum = 0;
